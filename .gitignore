@@ -10,7 +10,8 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-output/html5/app.wasm
+export/html5/app.wasm
+export/html5/media
 
 # Dependency directories (remove the comment below to include it)
 vendor/
